@@ -1,3 +1,3 @@
 class C {
-	public static void main(string[] args){}
+	public static void main(int[] args){}
 }
